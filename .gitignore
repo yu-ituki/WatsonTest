@@ -1,0 +1,30 @@
+#Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+#vs
+*.csproj
+*.unityproj
+*.sln
+*/.vs/*
+
+#Unity User Specific
+*.userprefs
+*.usertasks
+
+#Mono Developer Project Files
+*.pidb
+*.resources
+
+#Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
+
